@@ -70,3 +70,14 @@ Files/
 ## Repository
 
 This repository contains all notebooks, dashboards, and supporting files developed for the 7006SCN Machine Learning and Big Data assignment.
+
+
+
+## Final Project Status
+
+- Completed Tasks 1–6
+- Developed four machine learning models using PySpark
+- Created four Tableau dashboards
+- Performed Spark performance analysis
+- Completed model evaluation and explainability
+- Repository prepared for final submission
